@@ -34,21 +34,25 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![Screenshot 2024-05-17 002149](https://github.com/Sarishatheiveegan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979465/3e3bb286-9656-4cad-83a3-bb69e9fa8427)
+![Screenshot 2024-05-17 002207](https://github.com/Sarishatheiveegan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979465/a532e17b-f6cd-4391-9612-86801f4a56f4)
+
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![Screenshot 2024-05-17 002231](https://github.com/Sarishatheiveegan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979465/12a65a3d-ee5a-4da0-abd0-493c20e8f761)
+![Screenshot 2024-05-17 002249](https://github.com/Sarishatheiveegan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979465/f54ddf90-cf4e-4eae-8987-5e464f985c51)
+
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![Screenshot 2024-05-17 002309](https://github.com/Sarishatheiveegan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979465/6fa001a4-8eed-49de-bfaf-7d7722aca2c3)
+![Screenshot 2024-05-17 002337](https://github.com/Sarishatheiveegan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979465/381ed941-afb6-4b50-88c0-06ad27e2302e)
+
 
 ## Output:
+![Screenshot 2024-05-17 002354](https://github.com/Sarishatheiveegan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979465/5084d392-5ca0-44db-b21f-76a8da2ee6a4)
 
-### Name:
-### Register Number:
+### Name:MARINO SARISHA T
+### Register Number:212223240084
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
